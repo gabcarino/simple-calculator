@@ -1,0 +1,43 @@
+body {
+  margin-left: 680px;
+  margin-top: 210px;
+}
+
+table {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+table button {
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  width: 37.5px;
+  height: 37.5px;
+}
+
+table tr td input {
+  width: 170px;
+  height: 30px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: gray;
+}
+
+button:active {
+  background-color: gray;
+}
+
+#clear {
+  height: 37.5px;
+  width: 175px;
+}
+
+p {
+  background-color: rgb(229, 226, 226);
+  height: 25px;
+  font-size: 20px;
+}
